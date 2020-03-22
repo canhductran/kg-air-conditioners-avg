@@ -1,6 +1,8 @@
 ## Run Project
 To access the web page when the project is running, go to http://localhost:3000
 
+The logic for calculating the average cubic weight is in products.service.js (kg-air-conditioners-avg/services/products.service.js)
+
 <b>kg-air-conditioners-avg</b> is the root folder of the project.
 
 Install dependencies before running the project, do this:
@@ -57,4 +59,3 @@ Ports running:
 |.. README.md
 ```
 
-The logic for calculating the average cubic weight is in products.service.js (api/services/products.service.js)
