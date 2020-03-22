@@ -5,6 +5,12 @@
  * @param {*} length Has to be in meters
  */
 const calculateProductCubicWeight = (width, height, length) => {
+    if (!width ||
+        !height ||
+        !length) {
+        throw Error("Insufficient product sizeeee");
+    }
+
     const conversionFactor = 250;
     return width * height * length * conversionFactor;
 }

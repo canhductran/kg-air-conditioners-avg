@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently \"npm run start\" \"cd client && npm run start\""
+    "dev": "concurrently \"npm run start\" \"cd client && npm run start\"",
+    "test": "mocha \"test/**/*.test.js\""
   },
   "author": "chris.tran",
   "license": "ISC",
@@ -15,6 +15,7 @@
     "concurrently": "^5.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "kg-air-conditioners-avg": "file:client"
+    "kg-air-conditioners-avg": "file:client",
+    "mocha": "^7.1.1"
   }
 }
