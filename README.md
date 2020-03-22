@@ -1,7 +1,7 @@
 ## Run Project
 To access the web page when the project is running, go to http://localhost:3000
 
-kg-air-conditioners-avg is the root folder of the project.
+<b>kg-air-conditioners-avg</b> is the root folder of the project.
 
 Install dependencies before running the project, do this:
 
