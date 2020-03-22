@@ -2,14 +2,19 @@
 
 kg-air-conditioners-avg is the root folder of the project.
 
-To run the project, do this:
+Install dependencies before running the project, do this:
 
 ```bash
 cd kg-air-conditioners-avg
+npm install
 cd client
 npm install
-cd ..
-npm install
+```
+
+Run the project, do this
+
+```bash
+cd kg-air-conditioners-avg
 npm run dev
 ```
 
