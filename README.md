@@ -10,8 +10,6 @@ Install dependencies before running the project, do this:
 ```bash
 cd kg-air-conditioners-avg
 npm install
-cd client
-npm install
 ```
 
 To run the project, do this:
