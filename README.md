@@ -10,7 +10,7 @@ cd client
 npm install
 cd ..
 npm install
-npm start
+npm run dev
 ```
 
 To access the web page, go to http://localhost:3000
