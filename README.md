@@ -11,7 +11,7 @@ cd client
 npm install
 ```
 
-Run the project, do this
+To run the project, do this
 
 ```bash
 cd kg-air-conditioners-avg
