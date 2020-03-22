@@ -12,14 +12,14 @@ cd client
 npm install
 ```
 
-To run the project, do this
+To run the project, do this:
 
 ```bash
 cd kg-air-conditioners-avg
 npm run dev
 ```
 
-To run tests of the project, do this
+To run tests of the project, do this:
 
 ```bash
 cd kg-air-conditioners-avg
