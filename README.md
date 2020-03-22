@@ -44,6 +44,16 @@ Ports running:
 ```
 |__ api
 |__ client
+|__ config
+|__ controllers
+|__ routes
+|__ services
+|__ util
+|__ tests
+|.. .gitignore
+|.. index.js
+|.. package.json
+|.. package-lock.json
 |.. README.md
 ```
 
