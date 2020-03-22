@@ -16,6 +16,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "kg-air-conditioners-avg": "file:client",
-    "mocha": "^7.1.1"
+    "mocha": "^7.1.1",
+    "nan": "^2.14.0"
   }
 }
