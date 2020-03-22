@@ -33,6 +33,9 @@ Ports running:
 
 * Server port: 3030
 
+## Language
+JavaScript
+
 ## Technology Stack
 * React
 
