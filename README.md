@@ -1,5 +1,5 @@
 ## Run Project
-To access the web page when the project is running, go to http://localhost:3000
+To access the web page when the project is running, go to http://localhost:3000. Please make sure port 3000 and 3030 are free before running the Project
 
 The logic for calculating the average cubic weight is in <b>products.service.js</b> (kg-air-conditioners-avg/services/products.service.js)
 
