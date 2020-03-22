@@ -6,12 +6,9 @@ To run the project, do this:
 
 ```bash
 cd kg-air-conditioners-avg
-cd api
-npm install
-npm start
-
-cd kg-air-conditioners-avg
 cd client
+npm install
+cd ..
 npm install
 npm start
 ```
