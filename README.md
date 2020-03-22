@@ -1,22 +1,31 @@
 ## Run Project
+To access the web page when the project is running, go to http://localhost:3000
 
-kg-air-conditioners-avg is the root folder of the project.
+<b>kg-air-conditioners-avg</b> is the root folder of the project.
+
+Install dependencies before running the project, do this:
+
+```bash
+cd kg-air-conditioners-avg
+npm install
+cd client
+npm install
+```
 
 To run the project, do this:
 
 ```bash
 cd kg-air-conditioners-avg
-cd api
-npm install
-npm start
-
-cd kg-air-conditioners-avg
-cd client
-npm install
-npm start
+npm run dev
 ```
 
-To access the web page, go to http://localhost:3000
+To run tests of the project, do this:
+
+```bash
+cd kg-air-conditioners-avg
+npm test
+```
+
 
 Ports running:
 
